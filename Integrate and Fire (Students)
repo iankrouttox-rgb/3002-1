@@ -13,7 +13,7 @@ time = np.arange(0, T, dt)  # time vector
 C = 200.0      
 V_th = -50.0  
 V_reset = -65.0 
-V_rest = -65.0  
+V_rest = -75.0  
 I_ext = 300.0    
 
 # --- Initialize voltage and spike times ---
